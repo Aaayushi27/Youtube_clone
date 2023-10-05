@@ -1,0 +1,277 @@
+#outer
+{
+	height: 100%;
+	width: 100%;
+	//background: black;
+}
+#header
+{
+	height: 50px;
+	width: 100%;
+	//background: blue;
+}
+#a
+{
+	height: 50px;
+	width: 80px;
+	background: white;
+	float: left;
+}
+#ciri
+{
+	height: 50px;
+	width: 50px;
+	//background: yellow;
+	border-radius: 30px;
+	margin-left: 15px;
+}
+#ciri i
+{
+	margin-left: 14px;
+	margin-top: 14px;
+	color: black;
+	
+}
+#ciri:hover
+{
+	background: lightgrey;
+}
+#b
+{
+	height: 50px;
+	width: 998px;
+	//background: blue;
+	float: right;
+}
+#upic
+{
+	height: 50px;
+	width: 130px;
+	//background: red;
+	float: left;
+	background-image: url(../images/utbe.jpg);
+	background-size: cover;
+	}
+#c
+{
+	height: 50px;
+	width: 868px;
+	//background: yellow;
+	float: right;
+
+}
+#search
+{
+	height: 50px;
+	width: 598px;
+	background: white;
+	float: left;
+}
+#search input
+{
+	margin-left: ;
+	height: 45px;
+	border-radius: 30px 0px 0px 30px;
+	width: 500px;
+	margin-top: -25px;
+
+}
+#search button
+{
+   height: 45px;
+width: 45px; 
+margin-left: -4px;
+margin-top: 6px;
+border-radius: 0px 30px 30px 0px;  
+}
+#mic
+{
+	height: 45px;
+	width: 45px;
+	border-radius: 30px;
+	//background: yellow;
+	margin-left: 550px;
+	margin-top: -44px;
+}
+#mic i
+{
+	margin-top: 15px;
+	margin-left: 17px;
+}
+#mic:hover
+{
+	background: lightgrey;
+}
+#d
+{
+	height: 50px;
+	width: 270px;
+	background: white;
+	float: right;
+}
+
+#cr
+{
+height: 45px;
+width: 45px;
+border-radius: 30px;
+background: pink;
+margin-left: 20px;
+margin-top: 3px;
+background-image: url(../images/utbe.jpg);
+}
+#cr:hover
+{
+	background: lightgrey;
+}
+#bell
+{
+height: 45px;
+width: 45px;
+border-radius: 30px;
+//background: pink;
+margin-left: 90px;
+margin-top: -45px;
+}
+#bell:hover
+{
+	background: lightgrey;
+}
+#bell i
+{
+	margin-left: 15px;
+	margin-top:  14px;
+}
+#e
+{
+height: 45px;
+width: 45px;
+border-radius: 30px;
+background: pink;
+margin-left: 160px;
+margin-top: -45px;
+background-image: url(../images/ay.jpeg);
+	background-size: cover;
+	
+}
+#row
+{
+	height: 700px;
+	width: 100%;
+	background: white;
+	margin-top: 0px;
+}
+#row1
+{
+	height: 700px;
+	width: 200px;
+	//background: pink;
+	float: left;
+}
+
+#row1 ul
+{
+list-style-type: none;	
+
+}
+#row1 ul a
+{
+	text-decoration: none;
+}
+#row1 ul li
+{
+	//border: 1px solid;
+	color: black;
+	padding: 25px;
+	margin-left: -40px;
+	text-align: center;
+	font-size: 15px;
+	margin-top: 10px;
+	border-radius: 30px 30px 30px 30px;
+	
+}
+#row1 ul a li:hover
+{
+	background: lightgrey;
+}
+#row2
+{
+height: 700px;
+width: 970px;
+float: left;	
+}
+#div1
+{
+	height: 50px;
+	width: 100%;
+	margin-top: 6px;
+}
+#div1 ul
+{
+	list-style-type: none;
+}
+#div1 ul a
+{
+	text-decoration: none;
+}
+#div1 ul li
+{
+	display: inline-block;
+	width: 90px;
+	//border: 1px solid;
+	padding: 10px;
+	height: 20px;
+	margin-top: 5px;
+	text-align:  center;
+	color: black;
+	border-radius: 10px;
+}
+#div1 ul li:hover
+{
+	background: lightgrey;
+	color: white;
+	
+}
+#body
+{
+	height: 650px;
+	width: 100%;
+}
+.col
+{
+	height: 300px;
+	width: 980;
+	margin-right: 10px;
+}
+#brow1
+{
+	height: 230px;
+	width: 980%;
+	margin: 10px;
+	
+}
+.vbox
+{
+	height: 245px;
+	width: 280px;
+	float: left;
+	margin-right: 10px;
+}
+	
+#brow2
+{
+	height: 50px;
+	width: 100%;
+	//background: orange;
+	margin-top: 20px;
+}
+.ciri
+{
+	height: 50px;
+	width: 50px;
+	border-radius: 30px;
+	//background: grey;
+	float: left;
+	background-image: url(../images/th.jpeg);
+	background-size:cover;
+}
